@@ -1,0 +1,2 @@
+//Existem várias aplicabilidades em um software real, um exemplo é quando algum valor venha a ser usado diversas vezes 
+//em um mesmo programa, então para garantir que este valor não seja perdido, ele será guardado em um ponteiro.
